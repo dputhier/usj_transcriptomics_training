@@ -3,7 +3,6 @@
 - Enseignants: 
   - Denis Puthier, PR, Aix-Marseille University, TAGC Inserm 1090, MarMaRa (Marseille Maladie rare Institute), TGML, Marseille, France,
   - Béatrice Loriod, IR, Inserm, TAGC Inserm 1090, TGML, Marseille, France.
-- Enseignants: Denis Puthier, PR Aix-Marseille University, TAGC Inserm 1090, Marseille, France
 - Lieux: Année Universitaire 2023-24 -- Université de Saint-Jérome -- Beyrouth
 - Public: Etudiants en Master 
 - Thématiques: Approches de séquençage à haut débit – Approches de transcriptomique bulk, single-cell - Transcriptomique spatiale - Structure et Analyse du Génome – Expression des Gènes et Régulation Transcriptionnelles -
